@@ -1,22 +1,22 @@
 {
-  "name": "furrygame",
-  "version": "1.0.0",
-  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Miczys/WAR_FRO_S_23_Furry_Game_wolny_tydzien.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Miczys/WAR_FRO_S_23_Furry_Game_wolny_tydzien/issues"
-  },
-  "homepage": "https://github.com/Miczys/WAR_FRO_S_23_Furry_Game_wolny_tydzien#readme",
-  "devDependencies": {
-    "webpack": "^3.5.5"
-  }
+    "name": "furrygame",
+    "version": "1.0.0",
+    "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Miczys/WAR_FRO_S_23_Furry_Game_wolny_tydzien.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Miczys/WAR_FRO_S_23_Furry_Game_wolny_tydzien/issues"
+    },
+    "homepage": "https://github.com/Miczys/WAR_FRO_S_23_Furry_Game_wolny_tydzien#readme",
+    "devDependencies": {
+        "webpack": "^3.5.5"
+    }
 }
